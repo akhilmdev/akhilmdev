@@ -5,9 +5,9 @@
 
 <br />
 
-Hi, I'm [Akhil M], a Full Stack Developer 🚀 from India, currently, Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@exercism](https://exercism.io/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm **Akhil M**, a Full Stack Developer 🚀 from India, currently, Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@exercism](https://exercism.io/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/akhilmdev/akhilmdev/web_developer.svg" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
