@@ -18,6 +18,14 @@ Hi, I'm **Akhil M**, a Full Stack Developer 🚀 from India, Freelancer 👨🏽
 
 **Languages and Tools:**  
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-React.js-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Vue.js-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-git/GitHub-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Ruby-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
 
 
 <!--END_SECTION:waka-->
