@@ -34,7 +34,7 @@ Hi, I'm [Akhil M], a Full Stack Developer 🚀 from India, currently, Freelancer
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhiomdev&show_icons=true&theme=gotham" alt="akhilmdev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhilmdev&show_icons=true&theme=gotham" alt="akhilmdev" />
 
 </details>
 
